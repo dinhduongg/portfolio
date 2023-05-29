@@ -8,7 +8,7 @@ const Work = () => {
     <div id='work' className='w-full md:h-screen p-2 flex items-center'>
       <div className='w-full md:w-2/5 m-auto pt-24'>
         <div className='col-span-2 text-center'>
-          <p className='text-3xl tracking-widest text-[#5651e5]'>Where I've worked</p>
+          <p className='text-3xl tracking-widest text-[#5651e5]'>Where I&#39;ve worked</p>
         </div>
         <div className='pt-6 space-y-6'>
           {experience.map((exp, index) => {

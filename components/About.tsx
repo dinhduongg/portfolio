@@ -10,10 +10,10 @@ const About = () => {
           <div className='col-span-2 text-center'>
             <p className='uppercase text-3xl tracking-widest text-[#5651e5]'>About me</p>
             <p className='py-2 text-gray-600 w-full md:w-3/4 mx-auto'>
-              I’m a software engineer specializing in building exceptional digital experiences. I enjoy creating things
-              that live on the internet. My interest in web development started back in 2022 when I took a course on
-              website design. I'm quietly confident, naturally curious, and perpetually working on improving my chops
-              one develop problem at a time.
+              I&#39;m a software engineer specializing in building exceptional digital experiences. I enjoy creating
+              things that live on the internet. My interest in web development started back in 2022 when I took a course
+              on website design. I&#39;m quietly confident, naturally curious, and perpetually working on improving my
+              chops one develop problem at a time.
             </p>
           </div>
           <div className='max-w-[1000px] grid grid-cols-1 md:grid-cols-2 w-full rounded-3xl overflow-hidden border-[1px] shadow-lg mx-auto'>
