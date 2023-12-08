@@ -11,9 +11,19 @@ export const experience: exp[] = [
     compName: 'Pan software company limited',
     position: 'Frontend & Backend Developer',
     jobDetail: [
-      'Write modern, performant, maintainable code for a diverse array of client projects.',
-      'Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Nuxtjs, Nestjs.',
-      'Write APIs to connect between systems and serve data exchange with frontend.'
+      'Make admin page in Vuejs.',
+      'Learn nestjs, mplemented and updated api for web application features.',
+      'Implemented a responsive design that ensured the web application was accessible on all devices.'
+    ]
+  },
+  {
+    time: '08/2023 - Present',
+    compName: 'Thegioiic',
+    position: 'Frontend & Backend Developer',
+    jobDetail: [
+      'Make admin and user page in nextjs.',
+      'Implemented a responsive design that ensured the web application was accessible on all devices.',
+      'Implemented api for web application in nestjs.'
     ]
   }
 ]

@@ -2,6 +2,7 @@ import { AiOutlineMail } from 'react-icons/ai'
 import { BsDownload } from 'react-icons/bs'
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa'
 import { IoMdCall } from 'react-icons/io'
+import Head from 'next/head'
 
 import avatar from 'public/assets/avatar-1.jpg'
 import Image from 'next/image'
@@ -9,6 +10,9 @@ import Image from 'next/image'
 const Home = () => {
   return (
     <div id='home' className='w-full h-screen text-center'>
+      <Head>
+        <title>Portfolio</title>
+      </Head>
       <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
         <div>
           <div className='mx-auto w-2/6 rounded-full overflow-hidden border-4 border-[#5651e5] p-2'>
